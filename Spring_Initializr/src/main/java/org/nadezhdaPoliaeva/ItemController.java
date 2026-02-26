@@ -1,4 +1,4 @@
-package org.nadezhdaPoliaeva.controller;
+package org.nadezhdaPoliaeva;
 
 import org.nadezhdaPoliaeva.model.Item;
 import org.nadezhdaPoliaeva.service.ItemService;
