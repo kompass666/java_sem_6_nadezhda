@@ -8,7 +8,6 @@ import org.springframework.stereotype.Service;
 import java.util.*;
 
 @Service
-@Profile("jpa")
 public class JpaItemService implements ItemService {
 
     private final Map<Long, Item> storage = new HashMap<>();
