@@ -29,7 +29,7 @@ mvn spring-boot:run
 После запуска приложение доступно по адресу:
 
 ```
-http://localhost:8080/products
+http://localhost:8080/items
 ```
 
 ## Основные запросы
